@@ -13,7 +13,6 @@ The goal is to practice data analysis skills and present results in a clear and 
 - Pandas  
 - NumPy  
 - Matplotlib / Seaborn  
-- SQL (if applicable)
 
 ---
 
